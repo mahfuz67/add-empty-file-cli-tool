@@ -1,0 +1,16 @@
+{
+  "name": "add-empty-file",
+  "version": "1.0.0",
+  "description": "A simple cli tool to add an empty file at any location in a project directory",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "mahfuz",
+  "license": "ISC",
+  "bin": {
+    "addEmptyFile": "./bin/index.js"
+  }
+}
